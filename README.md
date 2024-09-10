@@ -22,4 +22,4 @@ A coleção **"Uncanny Visions"** é composta por:
 - **Site da Coleção:** [Uncanny Visions no OpenSea](https://opensea.io/collection/uncanny-visions)
 
 ## 📝 Nota
-Este projeto é uma atividade da **DIO** em parceria com a **Binance**.
+Este projeto é apenas uma atividade da **DIO** em parceria com a **Binance**.
