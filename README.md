@@ -12,8 +12,8 @@ O **"Uncanny Visions"** é uma coleção de NFTs inspirada em uma história aind
 
 ## 🛠 Tecnologias Empregadas
 - **[OpenSea](https://opensea.io/)**: Plataforma de marketplace para a visualização e negociação de NFTs, utilizada para listar e exibir a coleção de **Uncanny Visions**.
-- **[Base](https://base.org/)**: Rede Ethereum Layer 2 empregada para a criação e negociação dos NFTs da coleção.
 - **[Invoke AI](https://app.invoke.ai/)**: Ferramenta de geração de imagens com inteligência artificial, utilizada para criar as imagens dos NFTs da coleção.
+- **[Base](https://base.org/)**: Rede Ethereum Layer 2 empregada para a criação e negociação dos NFTs da coleção.
 
 ## 🔍 Detalhes da Coleção
 A coleção **"Uncanny Visions"** é composta por:
@@ -23,3 +23,8 @@ A coleção **"Uncanny Visions"** é composta por:
 
 ## 📝 Nota
 Este projeto é apenas uma atividade da **DIO** em parceria com a **Binance**.
+
+<br>
+
+---
+<p align="center"> Desenvolvido por <a href="https://github.com/devAndreotti">Ricardo Andreotti Gonçalves</a> </p>
